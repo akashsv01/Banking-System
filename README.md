@@ -11,7 +11,7 @@ Banking sector is one of the fastest growing sectors and has been one of the mos
 
 ➼ **SYSTEM REQUIREMENTS**
 
-Software:
+**Software :**
 
 ⁍ Eclipse IDE
 
